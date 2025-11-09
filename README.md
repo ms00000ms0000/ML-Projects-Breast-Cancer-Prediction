@@ -83,9 +83,9 @@ This confirms the model’s **effectiveness and dependability** in medical diagn
 ```
 📦 ML-Projects-Breast-Cancer-Prediction
 │
-├── Breast_Cancer_Prediction.ipynb # Main Jupyter Notebook
-├── requirements.txt # Dependencies and libraries
-└── README.md # Project documentation
+├── Breast_Cancer_Classification.ipynb                                                 # Complete model implementation
+├── breastcancer.csv                                                                   # Dataset
+└── README.md                                                                          # Project documentation
 ```
 
 ---
